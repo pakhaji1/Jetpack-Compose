@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HarvestHub</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_detail">Detail</string>
+    <string name="menu_keranjang">Keranjang</string>
+    <string name="menu_profile">Profile</string>
+    <string name="search">Pencarian</string>
+    <string name="data_tidak_ada">Data Tidak Ada</string>
+    <string name="harga">Rp. %d</string>
+    <string name="jumlah">Jumlah : </string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="tambah_ke_keranjang">Tambah ke Keranjang</string>
+    <string name="total_order">Total pesanan : %d Pts</string>
+    <string name="back">Kembali</string>
+    <string name="barang">Barang</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="share_message">Hey, I telah membeli %1$d barang di HarvestHub dengan total %2$d Harga. Mari Beli Hasil Pertanian di HarvestHub?</string>
+</resources>
